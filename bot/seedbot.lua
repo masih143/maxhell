@@ -224,8 +224,7 @@ function create_config( )
     sudo_users = {99628088,123649999,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Teleseed v2 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
+    about_text = [[maxhell vers1 create by masih
 
 https://github.com/masih143/maxhell
 
