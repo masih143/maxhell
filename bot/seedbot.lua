@@ -221,7 +221,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {99628088,123649999,0,tonumber(our_id)},--Sudo users
+    sudo_users = {99628088,123649999,78081205,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[maxhell vers1 create by masih
